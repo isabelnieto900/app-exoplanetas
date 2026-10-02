@@ -1,0 +1,134 @@
+id_telescopio,instalacion,nombre,instrumento
+1,Anglo-Australian Telescope,3.9 m Anglo-Australian Telescope,UCLES Spectrograph
+2,HATNet,Canon 200mm f/1.8L,2K CCD Sensor
+3,K2,0.95 m Kepler Telescope,Kepler CCD Array
+4,Kepler,0.95 m Kepler Telescope,Kepler CCD Array
+5,SuperWASP,Canon 200mm f/1.8L,iKon-L CCD Camera
+6,TrES,0.10 m Schmidt Telescope,2K CCD Sensor
+7,La Silla Observatory,3.6 m ESO Telescope,HARPS Spectrograph
+8,OGLE,1.3 m Warsaw University Telescope,OGLE CCD Array
+9,La Silla Observatory,1.2 m Leonhard Euler Telescope,CORALIE Spectrograph
+10,La Silla Observatory,1.52 m ESO Telescope,FEROS Spectrograph
+11,W. M. Keck Observatory,10 m Keck I Telescope,HIRES Spectrometer
+12,Haute-Provence Observatory,1.93 m Telescope,ELODIE Spectrograph
+13,Multiple Observatories,Multiple Telescopes,Multiple Instruments
+14,Transiting Exoplanet Survey Satellite (TESS),0.1 m TESS Telescope,TESS CCD Array
+15,Arecibo Observatory,305 m Arecibo Radio Telescope,Arecibo Radio Reciever
+16,Hubble Space Telescope,2.4 m Hubble Space Telescope,WFPC2 Camera
+17,CoRoT,0.27 m CoRoT Telescope,CoRoT CCD Array
+18,Las Campanas Observatory,6.5 m Magellan II Clay Telescope,MIKE Spectrograph
+19,Paranal Observatory,8.2 m ESO VLT UT4 Yepun Telescope,NACO Camera
+20,Haute-Provence Observatory,1.93 m Telescope,SOPHIE Spectrograph
+21,Lick Observatory,3.0 m C. Donald Shane Telescope,Hamilton Echelle Spectrograph
+22,Paranal Observatory,8.2 m ESO VLT UT3 Melipal Telescope,CRIRES+
+23,KMTNet,1.6 m wide-field telescope,18k Mosaic CCD camera
+24,SuperWASP-South,Canon 200mm f/1.8L,iKon-L CCD Camera
+25,Multiple Facilities,Multiple Telescopes,Multiple Instruments
+26,MOA,1.8 m MOA Telescope,MOA CCD Array
+27,HATSouth,0.18 m Takahashi Epsilon Astrograph,Apogee 4K CCD Sensor
+28,Roque de los Muchachos Observatory,3.58 m Telescopio Nazionale Galileo,HARPS-N Spectrograph
+29,Qatar,Canon 400mm f/2.8L,FLI ProLine 4K CCD Sensor
+30,Okayama Astrophysical Observatory,1.88 m Telescope,HIDES Echelle Spectrograph
+31,Lick Observatory,0.6 m Coude Auxiliary Telescope,Hamilton Echelle Spectrograph
+32,European Space Agency (ESA) Gaia Satellite,1.45 m x 0.5 m Telescope,Gaia CCD array
+33,Las Campanas Observatory,6.5 m Magellan II Clay Telescope,Carnegie Planet Finder Spectrograph
+34,Paranal Observatory,8.2 m ESO VLT UT3 Melipal Telescope,ESPRESSO
+35,CHaracterising ExOPlanets Satellite (CHEOPS),0.3 m Ritchey-Chretien Telescope,Teledyne e2v CCD detector
+36,European Southern Observatory,Multiple Telescopes,GRAVITY
+37,KELT,Mamiya 645 80mm f/1.9,Apogee 4K CCD Sensor
+38,McDonald Observatory,9.2 m Hobby-Eberly Telescope,High Resolution Spectrograph
+39,MEarth Project,0.4 m MEarth Telescope,Apogee CCD Sensor
+40,Subaru Telescope,8.2 m Subaru Telescope,HDS Spectrograph
+41,Cerro Tololo Inter-American Observatory,MEarth-South telescope array,Apogee CCD Sensor
+42,La Silla Observatory,0.60 m Transiting Planets and Planetesimals Small Telescope,TRAPPISTCAM
+43,SuperWASP,Canon 200mm f/1.8L,e2v CCD Camera
+44,KELT-South,Mamiya 645 80mm f/1.9,Apogee 4K CCD Sensor
+45,KELT-North,Mamiya 645 80mm f/1.9,Apogee 4K CCD Sensor
+46,Next-Generation Transit Survey (NGTS),20 cm NGTS telescope,NGTS CCD array
+47,WASP-South,Canon 200mm f/1.8L,iKon-L CCD Camera
+48,SuperWASP-North,Canon 200mm f/1.8L,Andor e2v CCD Camera
+49,Calar Alto Observatory,3.5 m telescope,CARMENES
+50,SPECULOOS Southern Observatory,Multiple Telescopes,Multiple Instruments
+51,Spitzer Space Telescope,0.85 m Spitzer Space Telescope,IRAC Infrared Array Camera
+52,Mauna Kea Observatory,3.58 m Canada-France-Hawaii Telescope (CFHT),SPIRou
+53,Paranal Observatory,8.2 m ESO VLT UT4 Yepun Telescope,ERIS-NIX
+54,HATNet,Multiple Telescopes,Multiple Instruments
+55,Gemini Observatory,8.19 m Gemini South Telescope,Gemini Planet Imager
+56,W. M. Keck Observatory,10 m Keck II Telescope,NIRC2 Camera
+57,XO,Canon 200mm f/1.8L,Apogee CCD Array
+58,Palomar Observatory,5.1 m Hale Telescope,PHARO Camera
+59,Bohyunsan Optical Astronomical Observatory,1.8 m Telescope,BOES Echelle Spectrograph
+60,Subaru Telescope,8.2 m Subaru Telescope,HiCIAO Camera
+61,HATNet,Multiple Telescopes,Apogee 4K CCD Sensor
+62,Gemini Observatory,8.19 m Gemini North Telescope,MAROON-X
+63,Lick Observatory,Coude Auxiliary Telescope,Hamilton Echelle Spectrograph
+64,Paranal Observatory,8.2 m ESO VLT UT3 Melipal Telescope,SPHERE
+65,Subaru Telescope,8.2 m Subaru Telescope,Infrared Camera and Spectrograph (IRCS)
+66,Gemini Observatory,8.19 m Gemini North Telescope,NIRI Camera
+67,Mauna Kea Observatory,3.58 m Canada-France-Hawaii Telescope (CFHT),WIRCam
+68,Teide Observatory,4.20 m William Herschel Telescope,ACAM Auxiliary Port Camera
+69,Yunnan Astronomical Observatory,2.4 m Lijiang Station Telescope,VersArray 1300B CCD Camera
+70,Paranal Observatory,4 m ESO Vista Telescope,VIRCAM CCD Array
+71,Subaru Telescope,8.2 m Subaru Telescope,CIAO Camera
+72,Zwicky Transient Facility,48-inch (1.2 m) Samuel Oschin telescope,CCD
+73,James Webb Space Telescope (JWST),6.5 m James Webb Space Telescope,Mid-Infrared Instrument (MIRI)
+74,La Silla Observatory,Multiple Telescopes,FEROS Spectrograph
+75,McDonald Observatory,2.7 m Harlan J. Smith Telescope,Tull Coude Spectrograph
+76,Winer Observatory,0.51 m Telescope,SBIG 6303e CCD Camera
+77,Las Campanas Observatory,6.5 m Magellan I Baade Telescope,FIRE Spectrograph
+78,Infrared Survey Facility,1.4 m IRSF Telescope,SIRIUS Camera
+79,Hubble Space Telescope,2.4 m Hubble Space Telescope,ACS Camera
+80,Roque de los Muchachos Observatory,3.58 m Telescopio Nazionale Galileo,SARG Spectrograph
+81,Parkes Observatory,64 m Parkes Radio Telescope,Parkes Radio Receiver
+82,Leoncito Astronomical Complex,2.15 m Jorge Sahade Telescope,VersArray 1300B CCD Camera
+83,United Kingdom Infrared Telescope,3.8 m United Kingdom Infrared Telescope,WFCam Wide Field Camera
+84,Gemini Observatory,8.19 m Gemini South Telescope,GMOS Spectrograph
+85,KOINet,Multiple Telescopes,Multiple Instruments
+86,Yunnan Astronomical Observatory,2.4 m Lijiang Station Telescope,6K CCD Mosaic
+87,La Silla Observatory,2.2 m MPG/ESO Telescope,WFI Camera
+88,Las Campanas Observatory,6.5 m Magellan II Clay Telescope,Clio2 Camera
+89,Fred Lawrence Whipple Observatory,1.5 m Tillinghast Reflector Telescope,TRES Echelle Spectrograph
+90,Cerro Tololo Inter-American Observatory,1.5 m CTIO Telescope,SIMON Near-Infrared Spectroimager
+91,Las Campanas Observatory,Multiple Telescopes,Multiple Instruments
+92,Large Binocular Telescope Observatory,Large Binocular Telescope,LMIRCam
+93,Apache Point Observatory,2.5m Sloan Digital Sky Survey (SDSS) Telescope,KeckET
+94,Haute-Provence Observatory,1.93 m Telescope,Multiple Instruments
+95,HATSouth,Multiple Telescopes,Multiple Instruments
+96,Acton Sky Portal Observatory,Rowe-Ackermann Schmidt Astrograph telescope,SBIG ST-8300M camera
+97,La Silla Observatory,1.4 m CAT Telescope,CES Spectrograph
+98,Thueringer Landessternwarte Tautenburg,2.0 m Alfred Jensch Telescope,Coude Echelle Spectrograph
+99,Lowell Observatory,Perkins 1.8 m Telescope,PRISM CCD
+100,Kitt Peak National Observatory,0.9 m KPNO Coude Feed Telescope,Exoplanet Tracker Interferometer
+101,Mauna Kea Observatory,3.8m United Kingdom Infrared Telescope (UKIRT),WFCAM
+102,Fred Lawrence Whipple Observatory,1.5 m Tillinghast Reflector Telescope,AFOE Echelle Spectrograph
+103,Atacama Large Millimeter Array (ALMA),Atacama Large Millimeter Array (ALMA),12-m Array
+104,Haleakala Observatory,1.8-m Ritchey-Chretien Telescope,Gigapixel Camera 1 (GPC1)
+105,Lick Observatory,2.4 m Automated Planet Finder Telescope,Levy Spectrograph
+106,Cerro Tololo Inter-American Observatory,1.5 m SMARTS telescope,CHIRON spectrometer
+107,Subaru Telescope,8.2 m Subaru Telescope,Subaru Coronagraphic Extreme Adaptive Optics (SCExAO)
+108,Subaru Telescope,8.2 m Subaru Telescope,Infrared Doppler (IRD)
+109,Very Long Baseline Array,Multiple Telescopes,Multiple Instruments
+110,Paranal Observatory,Very Large Telescope (Antu),FORS2
+111,James Webb Space Telescope (JWST),6.5 m James Webb Space Telescope,NIRCam
+112,South African Radio Astronomy Observatory (SARAO),MeerKAT Telescope,MeerKAT Radio Receiver
+113,Xinglong Station,2.16 m Telescope,Coude Echelle Spectrograph
+114,McDonald Observatory,9.2 m Hobby-Eberly Telescope,Habitable Zone Planet Finder (HPF) spectrograph
+115,Lick Observatory,Automated Planet Finder Telescope,Levy Spectrograph
+116,La Silla Observatory,3.6 m ESO Telescope,NIRPS Spectrograph
+117,European Southern Observatory,Multiple Telescopes,Multiple Instruments
+118,Apache Point Observatory,ARC 3.5m Telescope,Near-Infrared Camera & Fabry-Perot Spectrometer (NIC-FPS)
+119,Paranal Observatory,8.2 m ESO VLT UT1 Antu Telescope,FORS2 Spectrograph
+120,The 2 (Two) Micron All Sky Survey (2MASS),Fred Lawrence Whipple Observatory,2MASS Camera
+121,La Silla Observatory,3.6 m ESO Telescope,Multiple Instruments
+122,European Southern Observatory,8.2 m ESO VLT UT4 Yepun Telescope,Multi Unit Spectroscopic Explorer (MUSE)
+123,La Silla Observatory,Multiple Telescopes,Multiple Instruments
+124,Lowell Observatory,4.3 m Lowell Discovery Telescope,EXPRES spectrograph
+125,NASA Infrared Telescope Facility (IRTF),3.2 m telescope,SpeX
+126,La Silla Observatory,2.2 m MPG/ESO Telescope,FEROS Spectrograph
+127,KELT,Multiple Telescopes,Multiple Instruments
+128,Paranal Observatory,8.2 m ESO VLT UT3 Melipal Telescope,Multiple Instruments
+129,McDonald Observatory,2.7m Harlan J. Smith Telescope,Tull Coude Spectrograph
+130,University of Canterbury Mt John Observatory,1.0 m McLellan telescope,HERCULES echelle spectrograph
+131,Wide-field Infrared Survey Explorer (WISE) Satellite Mission,0.4 m Telescope,HgCdTe and Si:As 1K Infrared Detectors
+132,Acton Sky Portal Observatory,279mm RASA-11 wide-field telescope,FLI ML16200 camera
+133,Hubble Space Telescope,2.4 m Hubble Space Telescope,WFC3 Camera
