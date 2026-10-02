@@ -167,9 +167,17 @@ descubrimientos = descubrimientos[["id_descubrimiento", "id_planeta", "id_telesc
 
 # 5. Inserción respetando el orden Padre -> Hijo
 print("[5/5] Insertando datos en MySQL...")
-estrellas.to_sql(name="estrella", con=engine, if_exists="append", index=False)
-telescopios.to_sql(name="telescopio", con=engine, if_exists="append", index=False)
-planetas.to_sql(name="planeta", con=engine, if_exists="append", index=False)
-descubrimientos.to_sql(name="descubrimiento", con=engine, if_exists="append", index=False)
+
+with engine.connect() as conn:
+    conteo = conn.execute(text("SELECT COUNT(*) FROM estrella;")).scalar()
+
+if conteo > 0:
+    print("La base de datos ya contiene datos. Saltando inserción.")
+else:
+    estrellas.to_sql(name="estrella", con=engine, if_exists="append", index=False)
+    telescopios.to_sql(name="telescopio", con=engine, if_exists="append", index=False)
+    planetas.to_sql(name="planeta", con=engine, if_exists="append", index=False)
+    descubrimientos.to_sql(name="descubrimiento", con=engine, if_exists="append", index=False)
+    print("Base de datos cargada con éxito.")
 
 print("Base de datos cargada")
